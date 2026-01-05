@@ -2,7 +2,6 @@ const int leds[] = {8, 9, 10, 11, 12, 13};
 const int ledCount = 6;
 
 
-
 #include "DHT.h"
 #define DHT11_PIN 2
 
